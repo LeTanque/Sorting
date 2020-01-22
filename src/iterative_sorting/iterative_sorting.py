@@ -61,6 +61,13 @@ def bubble_sort(arr):
     return arr
 
 
+# STRETCH
+# Counting sort is a sorting technique based on keys
+# between a specific range. It works by counting the
+# number of objects having distinct key values
+# (kind of hashing). Then doing some arithmetic to
+# calculate the position of each object in the output
+# sequence.
 # STRETCH: implement the Count Sort function below
 def count_sort(arr, maximum=-1):
     return arr
